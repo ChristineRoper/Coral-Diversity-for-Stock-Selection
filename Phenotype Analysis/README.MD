@@ -1,4 +1,4 @@
-## `1. Fluorcam data` folder
+## 1. Fluorcam data folder
 
 Extracts data from Fluorcam files
 
