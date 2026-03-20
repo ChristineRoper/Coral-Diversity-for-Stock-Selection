@@ -1,16 +1,13 @@
 ## `1. Fluorcam data` folder
 
 Extracts data from Fluorcam files
-   
--Edit the sample list (`Sample list.csv`) to match data
-  
-## `2. Rapid Light Curves` folder
 
--Fit the Rapid Light Curve data to `P/I` curves
+## 2. Fit parameters to thermal curves
 
--Run `Extract_RLC_data.r` which extracts the light curve data from Fluorcam and output it to `outputs/fluorcam_RLC_data.csv`
+Run ed50.r to create Fq´/Fm´ log logistic curves to extract ED50 values
 
-## 3. Fit parameters to thermal curves
-
-1. Run any `.r` file to fit your parameter(s) of interest to the thermal curve. Depending on the parameter, different models are used.
    - Plots and csv files will be output to the `outputs` folder.
+
+## 3. Statistical Analysis
+
+   - Mean ED50 compared across sub-populations using a Kruskal-Wallis test by ranks and a Dunn’s Multiple Comparison post-hoc test (with Benjamini-Hochberg correction). Differences in sub-population variances were examined using a Levene’s test, followed by Tukey’s HSD post-hoc test.
