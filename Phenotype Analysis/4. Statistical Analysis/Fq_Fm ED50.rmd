@@ -1,0 +1,27 @@
+
+```{r}
+Fq_Fm_data <- read.csv("Phenotype Analysis/3. Thermal Curves/outputs/FqFm_T3/ed50.csv")
+# make Group a factor
+Fq_Fm_data$Group <- as.factor(Fq_Fm_data$Group)
+```
+
+#Check normality of ED50 values and run test
+```{r}
+# load required libraries
+library(stats)
+library(FSA)
+
+# Check assumptions for ANOVA
+shapiro.test(Fq_Fm_data$ed50) # did not pass
+bartlett.test(ed50 ~ Group, data = Fq_Fm_data) # did not pass
+
+# Assumptions for ANOVA not met, using non-parametric alternative
+# Kruskal-Wallis Rank Sum Test
+kruskal.test(ed50 ~ Group, data = Fq_Fm_data)
+
+# Post-hoc Dunn's test of multiple comparisons
+# with Benjamini-Hochberg adjustment
+dunn_result <- dunnTest(ed50 ~ Group, data = Fq_Fm_data, method = "bh")
+View(dunn_result$res)
+write.csv(dunn_result$res, "Phenotype Analysis/4. Statistical Analysis/ED50_posthoc_results.csv")
+```

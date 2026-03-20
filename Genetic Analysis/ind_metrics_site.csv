@@ -1,0 +1,187 @@
+﻿id,pop,reef,site,Sample ID
+1,Low Isles flat,Low Isles,L1,LI F1
+2,Low Isles flat,Low Isles,L1,LI F2
+3,Low Isles flat,Low Isles,L1,LI F3
+4,Low Isles flat,Low Isles,L1,LI F4
+5,Low Isles flat,Low Isles,L1,LI F5
+6,Low Isles flat,Low Isles,L1,LI F6
+7,Low Isles flat,Low Isles,L1,LI F7
+8,Low Isles flat,Low Isles,L1,LI F8
+9,Low Isles flat,Low Isles,L1,LI F9
+10,Low Isles flat,Low Isles,L1,LI F10
+11,Low Isles flat,Low Isles,L1,LI F11
+12,Low Isles flat,Low Isles,L1,LI F12
+13,Low Isles flat,Low Isles,L1,LI F13
+14,Low Isles flat,Low Isles,L1,LI F14
+15,Low Isles flat,Low Isles,L1,LI F15
+16,Low Isles flat,Low Isles,L1,LI F16
+17,Low Isles flat pale,Low Isles,L1,LI F17
+18,Low Isles flat pale,Low Isles,L1,LI F18
+19,Low Isles flat pale,Low Isles,L1,LI F19
+20,Low Isles flat pale,Low Isles,L1,LI F20
+21,Low Isles flat,Low Isles,L1,LI F21
+22,Low Isles flat,Low Isles,L1,LI F22
+23,Low Isles flat,Low Isles,L1,LI F23
+24,Low Isles flat,Low Isles,L1,LI F24
+25,Low Isles slope,Low Isles,L2,LI S1
+26,Low Isles slope,Low Isles,L2,LI S2
+27,Low Isles slope,Low Isles,L2,LI S3
+28,Low Isles slope,Low Isles,L2,LI S4
+29,Low Isles slope,Low Isles,L2,LI S5
+30,Low Isles slope,Low Isles,L2,LI S6
+31,Low Isles slope,Low Isles,L2,LI S7
+32,Low Isles slope,Low Isles,L2,LI S8
+33,Low Isles slope,Low Isles,L2,LI S9
+34,Low Isles slope,Low Isles,L2,LI S10
+35,Low Isles slope,Low Isles,L2,LI S11
+36,Low Isles slope,Low Isles,L2,LI S12
+37,Low Isles slope pale,Low Isles,Low Isles slope pale,LI S16
+38,Low Isles slope pale,Low Isles,Low Isles slope pale,LI S17
+39,Low Isles slope pale,Low Isles,Low Isles slope pale,LI S18
+40,Low Isles slope pale,Low Isles,Low Isles slope pale,LI S19
+41,Low Isles slope,Low Isles,L2,LI S20
+42,Low Isles slope,Low Isles,L2,LI S21
+43,Low Isles slope,Low Isles,L2,LI S22
+44,Low Isles slope,Low Isles,L2,LI S23
+45,Low Isles slope,Low Isles,L2,LI S24
+46,Low Isles slope,Low Isles,L2,LI S25
+47,Low Isles slope,Low Isles,L2,LI S26
+48,Low Isles slope,Low Isles,L2,LI S27
+49,Low Isles Woody flat,Low Isles,L2,W1
+50,Low Isles Woody flat,Low Isles,L2,W2
+51,Low Isles Woody flat,Low Isles,L2,W3
+52,Low Isles Woody flat,Low Isles,L2,W4
+53,Low Isles Woody flat,Low Isles,L2,W5
+54,Low Isles Woody flat,Low Isles,L2,W6
+55,Low Isles Woody flat,Low Isles,L2,W7
+56,Low Isles mangrove,Low Isles,Low Isles mangrove,M1
+57,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 1
+58,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 2
+59,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 3
+60,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 4
+61,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 5
+62,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 6
+63,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 7
+64,Opal Long Bommie,Opal Reef,Opal Long Bommie,LB 8
+65,Opal Rayban slope,Opal Reef,O3,RB S1
+66,Opal Rayban slope,Opal Reef,O3,RB S2
+67,Opal Rayban slope,Opal Reef,O3,RB S3
+68,Opal Rayban slope,Opal Reef,O3,RB S4
+69,Opal Rayban slope,Opal Reef,O3,RB S5
+70,Opal Rayban slope,Opal Reef,O3,RB S6
+71,Opal Rayban slope,Opal Reef,O3,RB S7
+72,Opal Rayban slope,Opal Reef,O3,RB S8
+73,Opal Rayban slope,Opal Reef,O3,RB S9
+74,Opal Rayban slope,Opal Reef,O3,RB S10
+75,Opal Rayban slope,Opal Reef,O3,RB S11
+76,Opal Rayban slope,Opal Reef,O3,RB S12
+77,Opal Rayban slope,Opal Reef,O3,RB S13
+78,Opal Rayban slope,Opal Reef,O3,RB S14
+79,Opal Rayban slope,Opal Reef,O3,RB S15
+80,Opal Rayban slope,Opal Reef,O3,RB S16
+81,Opal Rayban slope,Opal Reef,O3,RB S17
+82,Opal Rayban slope,Opal Reef,O3,RB S18
+83,Opal Rayban slope,Opal Reef,O3,RB S19
+84,Opal Rayban slope,Opal Reef,O3,RB S20
+85,Opal Rayban slope,Opal Reef,O3,RB S21
+86,Opal Rayban slope,Opal Reef,O3,RB S22
+87,Opal Rayban slope,Opal Reef,O3,RB S23
+88,Opal Rayban slope,Opal Reef,O3,RB S24
+89,Opal Rayban flat,Opal Reef,O3,RB F1
+90,Opal Rayban flat,Opal Reef,O3,RB F2
+91,Opal Rayban flat,Opal Reef,O3,RB F3
+92,Opal Rayban flat,Opal Reef,O3,RB F4
+94,Opal Rayban flat,Opal Reef,O3,RB F6
+95,Opal Rayban flat,Opal Reef,O3,RB F7
+96,Opal Rayban flat,Opal Reef,O3,RB F8
+97,Opal Rayban flat,Opal Reef,O3,RB F9
+98,Opal Rayban flat,Opal Reef,O3,RB F10
+99,Opal Rayban flat,Opal Reef,O3,RB F11
+100,Opal Rayban flat,Opal Reef,O3,RB F12
+101,Opal Rayban flat,Opal Reef,O3,RB F13
+102,Opal Rayban flat,Opal Reef,O3,RB F14
+103,Opal Rayban flat,Opal Reef,O3,RB F15
+104,Opal Rayban flat,Opal Reef,O3,RB F16
+105,Opal Rayban flat,Opal Reef,O3,RB F17
+106,Opal Rayban flat,Opal Reef,O3,RB F18
+107,Opal Rayban flat,Opal Reef,O3,RB F19
+109,Opal Rayban flat,Opal Reef,O3,RB F20
+110,Opal Rayban flat,Opal Reef,O3,RB F22
+111,Opal Rayban flat,Opal Reef,O3,RB F23
+112,Opal Rayban flat,Opal Reef,O3,RB F24
+113,Opal Mojo flat,Opal Reef,O2,MO F1
+114,Opal Mojo flat,Opal Reef,O2,MO F2
+115,Opal Mojo flat,Opal Reef,O2,MO F3
+116,Opal Mojo flat,Opal Reef,O2,MO F4
+117,Opal Mojo flat,Opal Reef,O2,MO F5
+118,Opal Mojo slope,Opal Reef,O2,MO S1
+119,Opal Mojo slope,Opal Reef,O2,MO S2
+120,Opal Mojo slope,Opal Reef,O2,MO S3
+121,Opal Mojo slope,Opal Reef,O2,MO S4
+122,Opal Mojo slope,Opal Reef,O2,MO S6
+123,Opal Mojo slope,Opal Reef,O2,MO S7
+124,Opal Mojo slope,Opal Reef,O2,MO S8
+125,Opal Mojo slope,Opal Reef,O2,MO S9
+126,Opal Mojo slope,Opal Reef,O2,MO S10
+127,Opal Mojo slope,Opal Reef,O2,MO S12
+128,Opal Mojo slope,Opal Reef,O2,MO S11
+129,Opal Mojo slope,Opal Reef,O2,MO S13
+130,Opal Mojo slope,Opal Reef,O2,MO S14
+131,Opal Mojo slope,Opal Reef,O2,MO S15
+132,Opal Mojo slope,Opal Reef,O2,MO S16
+133,Opal Mojo slope,Opal Reef,O2,MO S17
+134,Opal Mojo slope,Opal Reef,O2,MO S18
+135,Opal Mojo slope,Opal Reef,O2,MO S19
+136,Opal Mojo slope,Opal Reef,O2,MO S20
+137,Opal Mojo slope,Opal Reef,O2,MO S21
+138,Opal Mojo slope,Opal Reef,O2,MO S22
+139,Opal Mojo slope,Opal Reef,O2,MO S23
+140,Opal Mojo slope,Opal Reef,O2,MO S24
+141,Opal Mojo slope,Opal Reef,O2,MO S25
+142,Opal Mojo slope,Opal Reef,O2,MO S26
+143,Opal Mojo slope,Opal Reef,O2,MO S27
+144,Opal Mojo slope,Opal Reef,O2,MO S28
+145,Opal Mojo slope,Opal Reef,O2,MO S29
+146,Opal Mojo slope,Opal Reef,O2,MO S30
+147,Opal Mojo slope,Opal Reef,O2,MO S31
+148,Opal Mojo slope,Opal Reef,O2,MO S32
+149,Opal Mojo slope,Opal Reef,O2,MO S33
+150,Opal Mojo slope,Opal Reef,O2,MO S34
+151,Opal Mojo slope,Opal Reef,O2,MO S35
+152,Opal Mojo slope,Opal Reef,O2,MO S36
+153,Opal Mojo slope,Opal Reef,O2,MO S37
+154,Opal Mojo slope,Opal Reef,O2,MO S38
+155,Opal Mojo slope,Opal Reef,O2,MO S39
+156,Opal Mojo slope,Opal Reef,O2,MO S40
+157,Tongue Blue Hole,Tongue Reef,T1,BH 1
+158,Tongue Blue Hole,Tongue Reef,T1,BH 2
+159,Tongue Blue Hole,Tongue Reef,T1,BH 3
+160,Tongue Blue Hole,Tongue Reef,T1,BH 4
+161,Tongue Blue Hole,Tongue Reef,T1,BH 5
+162,Tongue Blue Hole,Tongue Reef,T1,BH 6
+163,Tongue Blue Hole,Tongue Reef,T1,BH 7
+164,Tongue Blue Hole,Tongue Reef,T1,BH 8
+165,Tongue Blue Hole,Tongue Reef,T1,BH 9
+166,Tongue Blue Hole,Tongue Reef,T1,BH 10
+167,Tongue Blue Hole,Tongue Reef,T1,BH 11
+168,Tongue Blue Hole,Tongue Reef,T1,BH 12
+169,Tongue Blue Hole,Tongue Reef,T1,BH 13
+170,Tongue Blue Hole,Tongue Reef,T1,BH 14
+171,Tongue Blue Hole,Tongue Reef,T1,BH 15
+172,Tongue Blue Hole,Tongue Reef,T1,BH 16
+173,Tongue Turtle Bay,Tongue Reef,T2,TB 1
+174,Tongue Turtle Bay,Tongue Reef,T2,TB 2
+175,Tongue Turtle Bay,Tongue Reef,T2,TB 3
+176,Tongue Turtle Bay,Tongue Reef,T2,TB 4
+177,Tongue Turtle Bay,Tongue Reef,T2,TB 5
+178,Tongue Turtle Bay,Tongue Reef,T2,TB 6
+179,Tongue Turtle Bay,Tongue Reef,T2,TB 7
+180,Tongue Turtle Bay,Tongue Reef,T2,TB 8
+181,Tongue Turtle Bay,Tongue Reef,T2,TB 9
+182,Tongue Turtle Bay,Tongue Reef,T2,TB 10
+183,Tongue Turtle Bay,Tongue Reef,T2,TB 11
+184,Tongue Turtle Bay,Tongue Reef,T2,TB 12
+185,Tongue Turtle Bay,Tongue Reef,T2,TB 13
+186,Tongue Turtle Bay,Tongue Reef,T2,TB 14
+187,Tongue Turtle Bay,Tongue Reef,T2,TB 15
+188,Tongue Turtle Bay,Tongue Reef,T2,TB 16

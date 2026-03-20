@@ -1,0 +1,186 @@
+SampleID,Folder,FirstArea,LastArea,Temp1,Temp2,Temp3,Temp4,Temp5,Temp6,SampleNumber,DateCollected,Coordinates,Reef,Site,Habitat,Condition,Group,HealthScore
+LI F1,Low Isles/2023 02 20/Flat 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,1,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F2,Low Isles/2023 02 20/Flat 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,2,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F3,Low Isles/2023 02 20/Flat 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,3,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F4,Low Isles/2023 02 20/Flat 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,4,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F5,Low Isles/2023 02 20/Flat 5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,5,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F6,Low Isles/2023 02 20/Flat 5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,6,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F7,Low Isles/2023 02 20/Flat 5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,7,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F8,Low Isles/2023 02 20/Flat 5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,8,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F9,Low Isles/2023 02 20/Flat 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,9,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F10,Low Isles/2023 02 20/Flat 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,10,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F11,Low Isles/2023 02 20/Flat 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,11,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F12,Low Isles/2023 02 20/Flat 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,12,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F13,Low Isles/2023 02 20/Flat 13-16,1,6,24.5,29.5,31.5,34.5,35.75,37,13,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F14,Low Isles/2023 02 20/Flat 13-16,7,12,24.5,29.5,31.5,34.5,35.75,37,14,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F15,Low Isles/2023 02 20/Flat 13-16,13,18,24.5,29.5,31.5,34.5,35.75,37,15,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F16,Low Isles/2023 02 20/Flat 13-16,19,24,24.5,29.5,31.5,34.5,35.75,37,16,44977,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,N/A
+LI F17,Low Isles/2023 02 24/Flat 17-20,1,6,24.5,29.5,31.5,34.5,35.75,37,17,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Pale,Low Isles flat pale,C2
+LI F18,Low Isles/2023 02 24/Flat 17-20,7,12,24.5,29.5,31.5,34.5,35.75,37,18,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Pale,Low Isles flat pale,C2
+LI F19,Low Isles/2023 02 24/Flat 17-20,13,18,24.5,29.5,31.5,34.5,35.75,37,19,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Pale,Low Isles flat pale,C2
+LI F20,Low Isles/2023 02 24/Flat 17-20,19,24,24.5,29.5,31.5,34.5,35.75,37,20,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Pale,Low Isles flat pale,E2
+LI F21,Low Isles/2023 02 24/Flat 21-24,1,6,24.5,29.5,31.5,34.5,35.75,37,21,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,D4
+LI F22,Low Isles/2023 02 24/Flat 21-24,7,12,24.5,29.5,31.5,34.5,35.75,37,22,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,D5
+LI F23,Low Isles/2023 02 24/Flat 21-24,13,18,24.5,29.5,31.5,34.5,35.75,37,23,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,D5
+LI F24,Low Isles/2023 02 24/Flat 21-24,19,24,24.5,29.5,31.5,34.5,35.75,37,24,44981,"-16.385823, 145.556467",Low Isles,Near transplant blocks,Reef flat,Healthy,Low Isles flat,C5
+LI S1,Low Isles/2023 02 20/Slope 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,25,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S2,Low Isles/2023 02 20/Slope 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,26,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S3,Low Isles/2023 02 20/Slope 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,27,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S4,Low Isles/2023 02 20/Slope 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,28,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S5,Low Isles/2023 02 20/Slope 5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,29,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S6,Low Isles/2023 02 20/Slope 5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,30,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S7,Low Isles/2023 02 20/Slope 5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,31,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S8,Low Isles/2023 02 20/Slope 5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,32,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S9,Low Isles/2023 02 20/Slope 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,33,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S10,Low Isles/2023 02 20/Slope 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,34,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S11,Low Isles/2023 02 20/Slope 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,35,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S12,Low Isles/2023 02 20/Slope 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,36,44977,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S20,Low Isles/2023 02 24/Slope 20-23,1,6,24.5,29.5,31.5,34.5,35.75,37,41,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S21,Low Isles/2023 02 24/Slope 20-23,7,12,24.5,29.5,31.5,34.5,35.75,37,42,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S22,Low Isles/2023 02 24/Slope 20-23,13,18,24.5,29.5,31.5,34.5,35.75,37,43,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S23,Low Isles/2023 02 24/Slope 20-23,19,24,24.5,29.5,31.5,34.5,35.75,37,44,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S24,Low Isles/2023 02 24/Slope 24-27,1,6,24.5,29.5,31.5,34.5,35.75,37,45,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S25,Low Isles/2023 02 24/Slope 24-27,7,12,24.5,29.5,31.5,34.5,35.75,37,46,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S26,Low Isles/2023 02 24/Slope 24-27,13,18,24.5,29.5,31.5,34.5,35.75,37,47,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+LI S27,Low Isles/2023 02 24/Slope 24-27,19,24,24.5,29.5,31.5,34.5,35.75,37,48,44981,"-16.380244, 145.566101",Low Isles,Back of boat slope to Woody Isle,Reef slope,Healthy,Low Isles slope,N/A
+W1,Low Isles/2023 02 24/Woody Flat 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,49,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W2,Low Isles/2023 02 24/Woody Flat 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,50,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W3,Low Isles/2023 02 24/Woody Flat 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,51,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W4,Low Isles/2023 02 24/Woody Flat 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,52,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W5,Low Isles/2023 02 24/Woody Flat 5-7+Mangrove1,1,6,24.5,29.5,31.5,34.5,35.75,37,53,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W6,Low Isles/2023 02 24/Woody Flat 5-7+Mangrove1,7,12,24.5,29.5,31.5,34.5,35.75,37,54,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+W7,Low Isles/2023 02 24/Woody Flat 5-7+Mangrove1,13,18,24.5,29.5,31.5,34.5,35.75,37,55,44981,"-16.380244, 145.566101",Low Isles,Back of boat Woody Isle flat,Woody flat,Healthy,Low Isles woody flat,N/A
+M1,,19,24,24.5,29.5,31.5,34.5,35.75,37,56,44981,TBD,Low Isles,In mangrove channel 1,Mangrove,Healthy,Low Isles mangrove,N/A
+LB 1,Long Bommie/1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,57,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 2,Long Bommie/1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,58,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 3,Long Bommie/1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,59,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 4,Long Bommie/1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,60,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 5,Long Bommie/5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,61,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 6,Long Bommie/5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,62,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 7,Long Bommie/5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,63,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+LB 8,Long Bommie/5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,64,44982,"-16.222564, 145.885811",Opal Reef,Long Bommie,Upper slope-crest,Healthy,Opal Long Bommie,N/A
+RB S1,Rayban/A. hyacith wild 3-5 A.mille wild slope 1,19,24,24.5,29.5,31.5,34.5,35.75,37,65,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S2,Rayban/A. mille slope 2-5,1,6,24.5,29.5,31.5,34.5,35.75,37,66,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S3,Rayban/A. mille slope 2-5,7,12,24.5,29.5,31.5,34.5,35.75,37,67,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S4,Rayban/A. mille slope 2-5,13,18,24.5,29.5,31.5,34.5,35.75,37,68,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S5,Rayban/A. mille slope 2-5,19,24,24.5,29.5,31.5,34.5,35.75,37,69,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S6,Rayban/A. mille slope 6-9,1,6,24.5,29.5,31.5,34.5,35.75,37,70,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S7,Rayban/A. mille slope 6-9,7,12,24.5,29.5,31.5,34.5,35.75,37,71,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S8,Rayban/A. mille slope 6-9,13,18,24.5,29.5,31.5,34.5,35.75,37,72,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S9,Rayban/A. mille slope 6-9,19,24,24.5,29.5,31.5,34.5,35.75,37,73,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S10,Rayban/A. mille slope 10-13,1,6,24.5,29.5,31.5,34.5,35.75,37,74,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S11,Rayban/A. mille slope 10-13,7,12,24.5,29.5,31.5,34.5,35.75,37,75,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S12,Rayban/A. mille slope 10-13,13,18,24.5,29.5,31.5,34.5,35.75,37,76,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S13,Rayban/A. mille slope 10-13,19,24,24.5,29.5,31.5,34.5,35.75,37,77,44983,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S14,Rayban/Rayban slope 14-17,1,6,24.5,29.5,31.5,34.5,35.75,37,78,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S15,Rayban/Rayban slope 14-17,7,12,24.5,29.5,31.5,34.5,35.75,37,79,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S16,Rayban/Rayban slope 14-17,13,18,24.5,29.5,31.5,34.5,35.75,37,80,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S17,Rayban/Rayban slope 14-17,19,24,24.5,29.5,31.5,34.5,35.75,37,81,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S18,Rayban/Rayban slope 18-21,1,6,24.5,29.5,31.5,34.5,35.75,37,82,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S19,Rayban/Rayban slope 18-21,7,12,24.5,29.5,31.5,34.5,35.75,37,83,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S20,Rayban/Rayban slope 18-21,13,18,24.5,29.5,31.5,34.5,35.75,37,84,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S21,Rayban/Rayban slope 18-21,19,24,24.5,29.5,31.5,34.5,35.75,37,85,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S22,Rayban/Rayban slope 22-24 Mojo slope 20,1,6,24.5,29.5,31.5,34.5,35.75,37,86,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S23,Rayban/Rayban slope 22-24 Mojo slope 20,7,12,24.5,29.5,31.5,34.5,35.75,37,87,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB S24,Rayban/Rayban slope 22-24 Mojo slope 20,13,18,24.5,29.5,31.5,34.5,35.75,37,88,44986,"-16.223189, 145.890464",Opal Reef,Rayban,Reef slope,Healthy,Opal Rayban slope,N/A
+RB F1,,1,6,24.5,29.5,31.5,34.5,35.75,37,89,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F2,Rayban/Rayban flat 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,90,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F3,Rayban/Rayban flat 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,91,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F4,Rayban/Rayban flat 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,92,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F5,Rayban/Rayban flat 5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,93,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F6,Rayban/Rayban flat 5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,94,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F7,Rayban/Rayban flat 5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,95,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F8,Rayban/Rayban flat 5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,96,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F9,Rayban/Rayban flat 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,97,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F10,Rayban/Rayban flat 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,98,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F11,Rayban/Rayban flat 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,99,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F12,Rayban/Rayban flat 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,100,44985,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F13,Rayban/Rayban flat 13-16,1,6,24.5,29.5,31.5,34.5,35.75,37,101,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F14,,7,12,24.5,29.5,31.5,34.5,35.75,37,102,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F15,Rayban/Rayban flat 13-16,13,18,24.5,29.5,31.5,34.5,35.75,37,103,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F16,Rayban/Rayban flat 13-16,19,24,24.5,29.5,31.5,34.5,35.75,37,104,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F17,Rayban/Rayban flat 17-20,1,6,24.5,29.5,31.5,34.5,35.75,37,105,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F18,Rayban/Rayban flat 17-20,7,12,24.5,29.5,31.5,34.5,35.75,37,106,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F19,Rayban/Rayban flat 17-20,13,18,24.5,29.5,31.5,34.5,35.75,37,107,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F20,Rayban/Rayban flat 17-20,19,24,24.5,29.5,31.5,34.5,35.75,37,108,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F21,Rayban/Rayban flat 21-24,1,6,24.5,29.5,31.5,34.5,35.75,37,109,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F22,Rayban/Rayban flat 21-24,7,12,24.5,29.5,31.5,34.5,35.75,37,110,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F23,Rayban/Rayban flat 21-24,13,18,24.5,29.5,31.5,34.5,35.75,37,111,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+RB F24,Rayban/Rayban flat 21-24,19,24,24.5,29.5,31.5,34.5,35.75,37,112,44986,"-16.223735, 145.889952",Opal Reef,Rayban,Reef flat,Healthy,Opal Rayban flat,N/A
+MO F1,Mojo/Mojo flat 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,113,44984,"-16.206903, 145.898400",Opal Reef,Mojo,Reef crest,Healthy,Opal Mojo crest,N/A
+MO F2,Mojo/Mojo flat 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,114,44984,"-16.206903, 145.898400",Opal Reef,Mojo,Reef crest,Healthy,Opal Mojo crest,N/A
+MO F3,Mojo/Mojo flat 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,115,44984,"-16.206903, 145.898400",Opal Reef,Mojo,Reef crest,Healthy,Opal Mojo crest,N/A
+MO F4,Mojo/Mojo flat 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,116,44984,"-16.206903, 145.898400",Opal Reef,Mojo,Reef crest,Healthy,Opal Mojo crest,N/A
+MO F5,Mojo/Mojo flat 5 slope 13-15,1,6,24.5,29.5,31.5,34.5,35.75,37,117,44984,"-16.206903, 145.898400",Opal Reef,Mojo,Reef crest,Healthy,Opal Mojo crest,N/A
+MO S1,Mojo/Mojo slope 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,118,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S2,Mojo/Mojo slope 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,119,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S3,Mojo/Mojo slope 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,120,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S4,Mojo/Mojo slope 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,121,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S5,,1,6,24.5,29.5,31.5,34.5,35.75,37,122,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S6,,7,12,24.5,29.5,31.5,34.5,35.75,37,123,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S7,,13,18,24.5,29.5,31.5,34.5,35.75,37,124,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S8,,19,24,24.5,29.5,31.5,34.5,35.75,37,125,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S9,Mojo/Mojo slope 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,126,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S10,Mojo/Mojo slope 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,127,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S11,Mojo/Mojo slope 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,128,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S12,Mojo/Mojo slope 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,129,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S13,Mojo/Mojo flat 5 slope 13-15,7,12,24.5,29.5,31.5,34.5,35.75,37,130,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S14,Mojo/Mojo flat 5 slope 13-15,13,18,24.5,29.5,31.5,34.5,35.75,37,131,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S15,Mojo/Mojo flat 5 slope 13-15,19,24,24.5,29.5,31.5,34.5,35.75,37,132,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S16,Mojo/Mojo slope 16-19,1,6,24.5,29.5,31.5,34.5,35.75,37,133,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S17,Mojo/Mojo slope 16-19,7,12,24.5,29.5,31.5,34.5,35.75,37,134,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S18,Mojo/Mojo slope 16-19,13,18,24.5,29.5,31.5,34.5,35.75,37,135,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S19,Mojo/Mojo slope 16-19,19,24,24.5,29.5,31.5,34.5,35.75,37,136,44984,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S20,Mojo/Rayban slope 22-24 Mojo slope 20,19,24,24.5,29.5,31.5,34.5,35.75,37,137,44986,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S21,Mojo/Mojo slope 21-24,1,6,24.5,29.5,31.5,34.5,35.75,37,138,44986,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S22,Mojo/Mojo slope 21-24,7,12,24.5,29.5,31.5,34.5,35.75,37,139,44986,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S23,,13,18,24.5,29.5,31.5,34.5,35.75,37,140,44986,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S24,,19,24,24.5,29.5,31.5,34.5,35.75,37,141,44986,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S25,Mojo/Mojo slope 25-28,1,6,24.5,29.5,31.5,34.5,35.75,37,142,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S26,,7,12,24.5,29.5,31.5,34.5,35.75,37,143,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S27,Mojo/Mojo slope 25-28,13,18,24.5,29.5,31.5,34.5,35.75,37,144,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S28,Mojo/Mojo slope 25-28,19,24,24.5,29.5,31.5,34.5,35.75,37,145,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S29,Mojo/Mojo slope 29-32,1,6,24.5,29.5,31.5,34.5,35.75,37,146,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S30,,7,12,24.5,29.5,31.5,34.5,35.75,37,147,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S31,Mojo/Mojo slope 29-32,13,18,24.5,29.5,31.5,34.5,35.75,37,148,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S32,Mojo/Mojo slope 29-32,19,24,24.5,29.5,31.5,34.5,35.75,37,149,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S33,Mojo/Mojo slope 33-36,1,6,24.5,29.5,31.5,34.5,35.75,37,150,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S34,Mojo/Mojo slope 33-36,7,12,24.5,29.5,31.5,34.5,35.75,37,151,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S35,Mojo/Mojo slope 33-36,13,18,24.5,29.5,31.5,34.5,35.75,37,152,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S36,Mojo/Mojo slope 33-36,19,24,24.5,29.5,31.5,34.5,35.75,37,153,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S37,Mojo/Mojo slope 37-40,1,6,24.5,29.5,31.5,34.5,35.75,37,154,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S38,Mojo/Mojo slope 37-40,7,12,24.5,29.5,31.5,34.5,35.75,37,155,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S39,Mojo/Mojo slope 37-40,13,18,24.5,29.5,31.5,34.5,35.75,37,156,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+MO S40,Mojo/Mojo slope 37-40,19,24,24.5,29.5,31.5,34.5,35.75,37,157,44987,"-16.206115, 145.898939",Opal Reef,Mojo,Lower slope,Healthy,Opal Mojo slope,N/A
+BH 1,Tongue Reef/Blue Hole 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,158,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 2,Tongue Reef/Blue Hole 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,159,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 3,Tongue Reef/Blue Hole 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,160,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 4,Tongue Reef/Blue Hole 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,161,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 5,Tongue Reef/Blue Hole 5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,162,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 6,Tongue Reef/Blue Hole 5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,163,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 7,Tongue Reef/Blue Hole 5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,164,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 8,Tongue Reef/Blue Hole 5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,165,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 9,Tongue Reef/Blue Hole 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,166,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 10,Tongue Reef/Blue Hole 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,167,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 11,Tongue Reef/Blue Hole 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,168,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 12,Tongue Reef/Blue Hole 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,169,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 13,Tongue Reef/Blue Hole 13-16,1,6,24.5,29.5,31.5,34.5,35.75,37,170,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 14,Tongue Reef/Blue Hole 13-16,7,12,24.5,29.5,31.5,34.5,35.75,37,171,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 15,Tongue Reef/Blue Hole 13-16,13,18,24.5,29.5,31.5,34.5,35.75,37,172,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+BH 16,Tongue Reef/Blue Hole 13-16,19,24,24.5,29.5,31.5,34.5,35.75,37,173,44988,"-16.278184, 145.830223",Tongue Reef,Blue Hole,Upper slope,Healthy,Tongue Blue Hole,N/A
+TB 1,Tongue Reef/Turtle Bay 1-4,1,6,24.5,29.5,31.5,34.5,35.75,37,174,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 2,Tongue Reef/Turtle Bay 1-4,7,12,24.5,29.5,31.5,34.5,35.75,37,175,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 3,Tongue Reef/Turtle Bay 1-4,13,18,24.5,29.5,31.5,34.5,35.75,37,176,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 4,Tongue Reef/Turtle Bay 1-4,19,24,24.5,29.5,31.5,34.5,35.75,37,177,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 5,Tongue Reef/Turtle Bay 5-8,1,6,24.5,29.5,31.5,34.5,35.75,37,178,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 6,Tongue Reef/Turtle Bay 5-8,7,12,24.5,29.5,31.5,34.5,35.75,37,179,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 7,Tongue Reef/Turtle Bay 5-8,13,18,24.5,29.5,31.5,34.5,35.75,37,180,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 8,Tongue Reef/Turtle Bay 5-8,19,24,24.5,29.5,31.5,34.5,35.75,37,181,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 9,Tongue Reef/Turtle Bay 9-12,1,6,24.5,29.5,31.5,34.5,35.75,37,182,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 10,Tongue Reef/Turtle Bay 9-12,7,12,24.5,29.5,31.5,34.5,35.75,37,183,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 11,Tongue Reef/Turtle Bay 9-12,13,18,24.5,29.5,31.5,34.5,35.75,37,184,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 12,Tongue Reef/Turtle Bay 9-12,19,24,24.5,29.5,31.5,34.5,35.75,37,185,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 13,Tongue Reef/Turtle Bay 13-16,1,6,24.5,29.5,31.5,34.5,35.75,37,186,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 14,Tongue Reef/Turtle Bay 13-16,7,12,24.5,29.5,31.5,34.5,35.75,37,187,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 15,Tongue Reef/Turtle Bay 13-16,13,18,24.5,29.5,31.5,34.5,35.75,37,188,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
+TB 16,Tongue Reef/Turtle Bay 13-16,19,24,24.5,29.5,31.5,34.5,35.75,37,189,44988,"-16.274575, 145.834220",Tongue Reef,Turtle Bay,Mid-upper slope,Healthy,Tongue Turtle Bay,N/A
